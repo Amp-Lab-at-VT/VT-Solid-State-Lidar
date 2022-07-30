@@ -1,4 +1,3 @@
-
 ---
 layout: project_template
 title: VT Solid State Lidar
