@@ -19,7 +19,7 @@ show_sidebar: false
 Hongbo Zhang
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/VT-Solid-State-Lidar"" >VT-Solid-State-Lidar</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/VT-Solid-State-Lidar" >VT-Solid-State-Lidar</a>
 
 ## Photo
 
