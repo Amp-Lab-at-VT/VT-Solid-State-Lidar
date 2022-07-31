@@ -4,7 +4,7 @@ title: VT Solid State Lidar
 description: We are designing and building a solid state lidar. The solid state lidar relies on phased array for laser beam steering.  Hence it does not need the mechanical rotation head.  This can solve the numerous drawbacks associated with mechanical Lidar.
 date: 2000-02-01 09:00:00
 hero_image: /web/img/VT-Solid-State-Lidar/Hero.png
-image: /web/img/VT-Solid-State-Lidar/Hero.png
+# image /web/img/VT-Solid-State-Lidar/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
